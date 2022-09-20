@@ -1,0 +1,17 @@
+# <center>{{.Name}}同学</center>
+
+- # 你目前的必修课成绩为：{{.Compulsory}}
+
+- # 你目前的选修课成绩为：{{.Selective}}
+
+- # 你目前的加权成绩为：{{.ShowScore}}
+
+- # 你去年所获奖学金为：{{.LastLevel}}
+- # 当前该档位内排名在：{{.PoolRank}}
+- # 预计会：{{.Prospect}}
+- # 建议：{{.AdviceKeep}}
+{{.Advice1}}
+{{.Advice2}}
+{{.Advice3}}
+- # 推荐：
+
